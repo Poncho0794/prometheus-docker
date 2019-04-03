@@ -1,7 +1,5 @@
 # Prometheus Image
 
----
-
 ## Ejecucion
 En el folder del proyecto construir la imagen con `docker build -t prometheus-img .`
 
